@@ -15,23 +15,4 @@
 
 6- > git tag -d v1.0
 
-
-
-
-
-![](img.png)
-![](/img.png)
-
-![](website.jpg)
-![](/website.jpg)
-
-<img src="img.png" alt="Getting started" />
-
-![alt text](img.png)
-
-<img src="/img.png" alt="Alt text" title="Optional title">
-
-![](https://user-images.githubusercontent.com/127855424/225304205-0b081a27-d2aa-4c6b-8d04-29d7e749be79.png)
-
-
-![website](https://user-images.githubusercontent.com/127855424/225304820-ecd8ef78-8661-4abf-8753-1af58312a04b.jpg)
+![alt text](https://github.com/helal-abdalla/task1/blob/master/img.png?raw=true)
